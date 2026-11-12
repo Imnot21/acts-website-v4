@@ -747,13 +747,3 @@ blockquote { margin: 0; }
 
 .program--college .program__badge--light { color: var(--green-deep); }
 
-/* Design-proposal notice */
-.concept-banner {
-  margin: 0;
-  padding: 10px var(--pad);
-  background: var(--green-deep);
-  color: var(--cream);
-  font: 600 0.9375rem/1.4 var(--font-body);
-  text-align: center;
-}
-.concept-banner a { color: var(--yellow); text-underline-offset: 3px; }
